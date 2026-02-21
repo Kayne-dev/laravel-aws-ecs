@@ -281,7 +281,7 @@ Before you begin, ensure you have:
 - **Development Machine:**
   - Docker Desktop installed
   - Git
-  - PHP 8.2+ and Composer (for local development)
+  - PHP 8.4+ and Composer (for local development)
   - AWS CLI configured
   - Text editor (VS Code recommended)
 
