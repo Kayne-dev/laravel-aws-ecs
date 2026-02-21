@@ -237,7 +237,7 @@ User Request
 ## ✨ Features
 
 ### Application Features
-- ✅ Laravel 11.x with PHP 8.2
+- ✅ Laravel 11.x with PHP 8.4
 - ✅ Nginx web server
 - ✅ PHP-FPM for optimal performance
 - ✅ Supervisor for process management
